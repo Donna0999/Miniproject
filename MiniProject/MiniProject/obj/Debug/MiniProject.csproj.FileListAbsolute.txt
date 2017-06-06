@@ -1,0 +1,12 @@
+c:\users\donna\documents\visual studio 2013\Projects\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.UI.resources
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.Cache
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.Logica.KlantenForm.resources
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.csprojResolveAssemblyReference.cache
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.Logica.ReserveringenForm.resources
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.Logica.BoekenForm.resources
+C:\Users\Donna\Documents\Visual Studio 2013\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.StyleGuide.BaseForm.resources
